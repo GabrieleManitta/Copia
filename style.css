@@ -78,9 +78,9 @@ ul li.checked div {
 }
 
 .header {
-    background-color: rgb(84, 230, 230);
+    background-color: rgb(20, 207, 207);
     padding: 30px 40px;
-    color: rgba(255, 255, 255, 0.685);
+    color: rgb(159, 255, 32);
     text-align: center;
 }
 
